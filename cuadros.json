@@ -1,0 +1,68 @@
+[   
+    
+    {  
+
+       "id":5,
+       "nombre":"Paisaje de Leon" ,
+       "tamaño":"150cm x 70cm",
+       "precio":6790,
+       "imagen":"t-5.jpg"
+},
+{  
+
+       "id":6,
+       "nombre":"Maravillas del Mundo" ,
+       "tamaño":"150cm x 70cm",
+       "precio":6000,
+       "imagen":"t-6.jpg"
+},
+{  
+
+       "id":7,
+       "nombre":"Atardecer en la Playa" ,
+       "tamaño":"150cm x 70cm",
+       "precio":6790,
+       "imagen":"t-7.jpg"
+},
+{  
+
+       "id":8,
+       "nombre":"Ganesha Rosa" ,
+       "tamaño":"110cm x 70cm" ,
+       "precio":6290,
+       "imagen":"t-8.jpg"
+},
+{  
+
+       "id":9,
+       "nombre": "Espejo Diamante - Negro",
+       "tamaño":"175cm x 66cm",
+       "precio": 23900 ,
+       "imagen": "t-9.jpg"
+},
+{  
+
+       "id":10,
+       "nombre":"Espejo Rojo",
+       "tamaño":"90cm x 90cm" ,
+       "precio": 21900,
+       "imagen":"t-10.jpg"
+},
+{  
+
+       "id":11,
+       "nombre":"Espejo Circular - Plateado",
+       "tamaño":"2m (Ancho) x 50cm (Alto)" ,
+       "precio":23900 ,
+       "imagen":"t-11.jpg"
+},
+{  
+
+       "id":12,
+       "nombre":"Barco de Los Simpsons",
+       "tamaño":"40cm x 35cm" ,
+       "precio":2990 ,
+       "imagen":"t-12.jpg"
+}
+
+]
